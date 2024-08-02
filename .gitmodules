@@ -1,0 +1,7 @@
+[submodule "scikit-build-core"]
+	path = scikit-build-core
+	url = git@github.com:wheel-next/scikit-build-core
+	branch = variant-hash-build-tag
+[submodule "test-data-creation"]
+	path = test-data-creation
+	url = git@github.com:wheel-next/test-data-creation.git
